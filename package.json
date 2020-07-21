@@ -63,7 +63,7 @@
     "@types/ace": "0.0.33",
     "@types/async": "^2.0.38",
     "@types/autobahn": "^0.9.35",
-    "@types/chart.js": "^2.7.2",
+    "@types/chart.js": "^2.9.23",
     "@types/cheerio": "^0.17.31",
     "@types/d3-dsv": "^1.0.35",
     "@types/datatables.net": "^1.10.9",
