@@ -44,7 +44,7 @@
     "imap-simple": "^4.3.0",
     "lodash": "^4.17.4",
     "minimist": "^1.2.2",
-    "mongodb": "^2.2.10",
+    "mongodb": "^3.6.1",
     "node-gyp": "^3.8.0",
     "nodemailer": "^4.0.1",
     "qheap": "^1.4.0",
