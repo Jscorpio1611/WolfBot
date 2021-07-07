@@ -66,7 +66,7 @@
     "@types/chart.js": "^2.7.2",
     "@types/cheerio": "^0.17.31",
     "@types/d3-dsv": "^1.0.35",
-    "@types/datatables.net": "^1.10.9",
+    "@types/datatables.net": "^1.10.20",
     "@types/elasticsearch": "^5.0.12",
     "@types/es6-shim": "^0.31.32",
     "@types/eventemitter2": "^2.2.1",
